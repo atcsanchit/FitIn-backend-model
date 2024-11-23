@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name='FitIn-model-0',
-    version='0.0.1',
+    version='0.0.2',
     author='Sanchit',
     author_email='atcsanchit@gmail.com',
     packages=find_packages(),
